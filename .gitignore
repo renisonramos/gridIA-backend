@@ -1,0 +1,9 @@
+# Ignorar a pasta de dependências do Node.js
+node_modules
+
+# Ignorar o arquivo com segredos!
+.env
+
+# Ignorar arquivos de Teste
+test-gemini.js
+test-stability.js
